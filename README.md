@@ -27,20 +27,50 @@ Forma 3: considera a frequência das letras em relação a todas as letras do da
 
 ## Results for Dataset 1
 
-### Considering only the frequency of the letters in each word
+### First guess
 
-#### First guess
+Source: 
 
-##### Best 10 words
+#### Best 10 words
 
-##### Worst 10 words
+| Word | Rank |
+| :-: | :-: |
+| slate	| 1 |
+| crane	| 2 |
+| stare	| 3 |
+| share	| 4 |
+| crate	| 5 |
+| snare	| 6 |
+| trace	| 7 |
+| saute	| 8 |
+| stale	| 9 |
+| shale	| 10 |
 
 
-#### First two guesses
 
-##### Best 10 words
+#### Worst 10 words
 
-##### Worst 10 words
+| Word | Rank |
+| :-: | :-: |
+| mimic	| 2303 |
+| vivid	| 2304 |
+| mamma	| 2305 |
+| mucus	| 2306 |
+| lymph	| 2307 |
+| humph	| 2308 |
+| fluff	| 2309 |
+| jumbo	| 2310 |
+| humus	| 2311 |
+| nymph | 2312 |
+
+
+
+
+### First two guesses
+
+#### Best 10 words
+
+#### Worst 10 words
 
 
 ### Adding penalty to words with repeated letters
