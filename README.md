@@ -125,6 +125,22 @@ Forma 3: considera a frequência das letras em relação a todas as letras do da
 
 ##### Worst 10 words
 
+| Word 1 | Word 2 | Rank |
+| :-: | :-: | :-: |
+| buzzy	| chuff	| 34936 |
+| fuffy	| muzzy	| 34937 |
+| fuffy	| whizz	| 34938 |
+| muzzy	| whizz	| 34939 |
+| fuffy	| huzzy	| 34940 |
+| buzzy	| fuffy	| 34941 |
+| huzzy	| muzzy	| 34942 |
+| buzzy	| muzzy	| 34943 |
+| huzzy	| whizz	| 34944 |
+| buzzy	| whizz	| 34945 |
+| buzzy	| huzzy	| 34946 |
+
+
+
 
 ### Adding penalty to words with repeated letters
 
@@ -139,9 +155,38 @@ Forma 3: considera a frequência das letras em relação a todas as letras do da
 
 ##### Best 10 words
 
+| Word 1 | Word 2 | Rank |
+| :-: | :-: | :-: |
+| adits	| enrol	| 1 |
+| lints	| oread	| 1 |
+| lints	| oared	| 1 |
+| linos	| tared	| 1 |
+| linos	| rated	| 1 |
+| dorts	| elain	| 1 |
+| dorsa	| lenti	| 1 |
+| dorsa	| intel	| 1 |
+| dorsa	| elint	| 1 |
+| soral	| tined	| 1 |
+
+\*491 word pairs were ranked number 1. For this reason, only a few pairs are shown
+
+
 ##### Worst 10 words
 
+| Word 1 | Word 2 | Rank |
+| :-: | :-: | :-: |
+| phizz	| whizz	| 140600 |
+| chizz	| whizz	| 140601 |
+| bizzy	| buzzy	| 140602 |
+| buffy	| buzzy	| 140604 |
+| fuffy	| muzzy	| 140605 |
+| fuffy	| huzzy	| 140606 |
+| buzzy	| fuffy	| 140607 |
+| huzzy	| muzzy	| 140608 |
+| buzzy	| muzzy	| 140609 |
+| buzzy	| huzzy	| 140610 |
 
+	
 
 ### Adding the frequency of letters at each word position
 
