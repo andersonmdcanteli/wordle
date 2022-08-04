@@ -171,7 +171,56 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 
 #### Best 10 words
 
+| Word | Source | Rank | &nbsp; | Word\* | Source | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| tares	| 0	| 1 | &nbsp; | soare | 0 | 1 |
+| lares	| 0	| 2 | &nbsp; | saine | 0 | 2 |
+| cares	| 0	| 3 | &nbsp; | slane | 0 | 3 |
+| pares	| 0	| 4 | &nbsp; | saice | 0 | 4 |
+| dares	| 0	| 5 | &nbsp; | slate | 1 | 5 |
+| bares	| 0	| 6 | &nbsp; | soave | 0 | 6 |
+| mares	| 0	| 7 | &nbsp; | saree | 0 | 7 |
+| gares	| 0	| 8 | &nbsp; | crane | 1 | 8 |
+| nares	| 0	| 9 | &nbsp; | stare | 1 | 9 |
+| hares	| 0	| 10 | &nbsp; | share | 1 | 10 |
+
+"Sorce" indicates the source of the word. 
+- If 0, the word is not a possible word of the day. 
+- If 1, the word is a possible word of the day.
+
+\* estimated with the frequencies obtained using dataset 1
+
+
+
+
 #### Worst 10 words
+
+| Word | Source | Rank | &nbsp; | Word\* | Source | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| uhuru	| 0	| 12786 | &nbsp; | hypha | 0 | 12677 |
+| phpht	| 0	| 12787 | &nbsp; | gyppo | 0 | 12678 |
+| enzym	| 0	| 12788 | &nbsp; | kibbi | 0 | 12679 |
+| gyppy	| 0	| 12789 | &nbsp; | kudzu | 0 | 12680 |
+| immix	| 0	| 12790 | &nbsp; | immix | 0 | 12681 |
+| hyphy	| 0	| 12791 | &nbsp; | fuffs | 0 | 12682 |
+| xylyl	| 0	| 12792 | &nbsp; | kukus | 0 | 12683 |
+| fluff	| 1	| 12793 | &nbsp; | jujus | 0 | 12684 |
+| undug	| 0	| 12794 | &nbsp; | imshi | 0 | 12685 |
+| ungum	| 0	| 12795 | &nbsp; | umphs | 0 | 12686 |
+
+
+"Sorce" indicates the source of the word. 
+- If 0, the word is not a possible word of the day. 
+- If 1, the word is a possible word of the day.
+
+\* estimated with the frequencies obtained using dataset 1
+
+<br>
+
+
+
+
+
 
 
 ### First two guesses
