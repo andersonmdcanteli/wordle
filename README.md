@@ -157,8 +157,52 @@ Source:
 
 #### Best 10 words
 
+| Word 1 | Word 2 | Rank | &nbsp; | Word1\* | Word2\* | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| laris | tones | 1 | &nbsp; | 1 | 1 | 1 |
+| paris | tones | 2 | &nbsp; | 1 | 1 | 1 |
+| daris | tones | 3 | &nbsp; | 1 | 1 | 1 |
+| paris | toles | 4 | &nbsp; | 1 | 1 | 1 |
+| palis | tores | 4 | &nbsp; | 1 | 1 | 1 |
+| polis |	tares |	4 | &nbsp; | 1 | 1 | 1 |
+| dalis |	tores |	5 | &nbsp; | 1 | 1 | 1 |
+| daris |	toles |	5 | &nbsp; | 1 | 1 | 1 |
+| doris |	tales |	5 | &nbsp; | 1 | 1 | 1 |
+| pares |	toils |	6 | &nbsp; | 1 | 1 | 1 |
+| pails |	tores |	6 | &nbsp; | 1 | 1 | 1 |
+| pores |	tails |	6 | &nbsp; | 1 | 1 | 1 |
+| dores |	tails |	7 | &nbsp; | 1 | 1 | 1 |
+| dares |	toils |	7 | &nbsp; | 1 | 1 | 1 |
+| manis |	tores |	8 | &nbsp; | 1 | 1 | 1 |
+| cores |	tails |	9 | &nbsp; | 1 | 1 | 1 |
+| coils |	tares |	9 | &nbsp; | 1 | 1 | 1 |
+| cares |	toils |	9 | &nbsp; | 1 | 1 | 1 |
+| loins |	tares |	10 | &nbsp; | 1 | 1 | 1 |
+| lores |	tains |	10 | &nbsp; | 1 | 1 | 1 |
+
+\* estimated with the frequencies obtained using dataset 1
+
 
 ##### Worst 10 words
+
+
+| Word 1 | Word 2 | Rank | &nbsp; | Word1\* | Word2\* | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| cwtch |	phpht |	4380043 | &nbsp; | 1 | 1 | 1 |
+| buchu |	chuff |	4380044 | &nbsp; | 1 | 1 | 1 |
+| hyphy |	yucch |	4380045 | &nbsp; | 1 | 1 | 1 |
+| chuff |	uhuru |	4380046 | &nbsp; | 1 | 1 | 1 |
+| gyppo |	hyphy |	4380047 | &nbsp; | 1 | 1 | 1 |
+| infix |	unfix |	4380048 | &nbsp; | 1 | 1 | 1 |
+| hyphy |	xylyl |	4380049 | &nbsp; | 1 | 1 | 1 |
+| chuff |	yucch |	4380050 | &nbsp; | 1 | 1 | 1 |
+| hyphy |	psych |	4380051 | &nbsp; | 1 | 1 | 1 |
+| jugum |	ungum |	4380052 | &nbsp; | 1 | 1 | 1 |
+| undug | ungum |	4380053 | &nbsp; | 1 | 1 | 1 |
+
+
+\* estimated with the frequencies obtained using dataset 1
+
 
 <br>
 
