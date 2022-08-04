@@ -113,6 +113,8 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 
 ### First guess
 
+Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_only_allowed_first_guess.ipynb).
+
 #### Best 10 words
 
 | Word | Rank | &nbsp; | Word\* | Rank\* | 
