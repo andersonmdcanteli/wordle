@@ -128,11 +128,28 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 | nares	| 9	| &nbsp; | prase | 9 |
 | hares	| 10	| &nbsp; | coate | 10 |
 
-
+\* estimated with the frequencies obtained using dataset 1
 
 
 
 #### Worst 10 words
+
+
+| Word | Rank | &nbsp; | Word\* | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: |
+| chuff | 10538 | &nbsp; | hypha | 10432 |
+| uhuru	| 10539	| &nbsp; | gyppo | 10433 |
+| enzym	| 10540	| &nbsp; | kibbi | 10434 |
+| gyppy	| 10541	| &nbsp; | kudzu | 10435 |
+| phpht	| 10542	| &nbsp; | immix | 10436 |
+| immix	| 10543	| &nbsp; | fuffs | 10437 |
+| xylyl	| 10544	| &nbsp; | kukus | 10438 |
+| hyphy	| 10545	| &nbsp; | jujus | 10439 |
+| undug	| 10546	| &nbsp; | imshi | 10440 |
+| ungum	| 10547	| &nbsp; | umphs | 10441 |
+
+\* estimated with the frequencies obtained using dataset 1
+
 
 
 ### First two guesses
