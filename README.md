@@ -115,6 +115,23 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 
 #### Best 10 words
 
+| Word | Rank | &nbsp; | Word\* | Rank\* | 
+| :-: | :-: | :-: | :-: | :-: |
+| tares	| 1	| &nbsp; | soare | 1 |
+| lares	| 2	| &nbsp; | saine | 2 |
+| pares	| 3	| &nbsp; | slane | 3 |
+| dares	| 4	| &nbsp; | saice | 4 |
+| cares	| 5	| &nbsp; | soave | 5 |
+| bares	| 6	| &nbsp; | saree | 6 |
+| mares	| 7	| &nbsp; | slade | 7 |
+| gares	| 8	| &nbsp; | sarge | 8 |
+| nares	| 9	| &nbsp; | prase | 9 |
+| hares	| 10	| &nbsp; | coate | 10 |
+
+
+
+
+
 #### Worst 10 words
 
 
