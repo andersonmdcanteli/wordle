@@ -29,7 +29,7 @@ Forma 3: considera a frequência das letras em relação a todas as letras do da
 
 ### First guess
 
-Source: this [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_only_answers_first_guess.ipynb).
+Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_only_answers_first_guess.ipynb).
 
 #### Best 10 words
 
@@ -68,7 +68,7 @@ Source: this [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wo
 
 ### First two guesses
 
-Source:
+Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_only_answers_pair_of_words.ipynb).
 
 #### Best 10 words
 
