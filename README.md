@@ -68,170 +68,86 @@ Source: this [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wo
 
 ### First two guesses
 
+Source:
+
 #### Best 10 words
+
+| Word 1 | Word 2 | Rank |
+| :-: | :-: | :-: |
+| crony	| slate	| 1 |
+| soapy	| trice	| 2 |
+| crone	| shalt	| 3 |
+| price	| slant	| 4 |
+| briny	| slate	| 5 |
+| crime	| slant	| 6 |
+| grant	| slice	| 7 |
+| crone	| salty	| 8 |
+| corny	| slate	| 9 |
+| brine	| soapy	| 10 |
+
 
 #### Worst 10 words
 
 
-### Adding penalty to words with repeated letters
-
-#### First guess
-
-##### Best 10 words
-
-##### Worst 10 words
-
-
-#### First two guesses
-
-##### Best 10 words
-
-##### Worst 10 words
+| Word 1 | Word 2 | Rank |
+| :-: | :-: | :-: |
+| rumba	| umbra	| 526085 |
+| ennui	| undid	| 526086 |
+| humus	| mummy	| 526087 |
+| mucus	| music	| 526088 |
+| fluff	| lupus	| 526089 |
+| lupus	| usurp	| 526090 |
+| humph	| thump	| 526091 |
+| chump	| humph	| 526092 |
+| humus	| mucus	| 526093 |
+| humph	| humus	| 526094 |
 
 
-
-### Adding the frequency of letters at each word position
-
-#### First guess
-
-##### Best 10 words
-
-##### Worst 10 words
-
-
-#### First two guesses
-
-##### Best 10 words
-
-##### Worst 10 words
 
 
 
 
 ## Results for Dataset 2
 
-### Considering only the frequency of the letters in each word
-
-#### First guess
-
-##### Best 10 words
-
-##### Worst 10 words
 
 
-#### First two guesses
+### First guess
 
-##### Best 10 words
+#### Best 10 words
 
-| Word 1 | Word 2 | Rank |
-| :-: | :-: | :-: |
-| esses	| sessa	| 1 |
-| asses	| esses	| 1 |
-| esses	| sasse	| 1 |
-| asses	| sasse	| 2 |
-| asses	| sessa | 2 |
-| sasse	| sessa	| 2 |
-| esses	| sease | 3 |
-| eases	| esses	| 3 |
-| sease	| sessa	| 4 |
-| sasse	| sease	| 4 |
-| asses	| eases	| 4 |
-| eases	| sasse	| 4 |
-| asses	| sease	| 4 |
-| eases	| sessa	| 4 |
-| eases	| sease	| 5 |
-| esses	| sises	| 6 |
-| esses	| oases	| 7 |
-| esses	| reses	| 8 |
-| esses	| seers	| 8 |
-| erses	| esses	| 8 |
-| esses	| seres	| 8 |
-| asses	| sises	| 9 |
-| sasse	| sises	| 9 |
-| sessa	| sises	| 9 |
-| esses	| seise	| 10 |
+#### Worst 10 words
 
+
+### First two guesses
+
+#### Best 10 words
 
 
 ##### Worst 10 words
 
-| Word 1 | Word 2 | Rank |
-| :-: | :-: | :-: |
-| buzzy	| chuff	| 34936 |
-| fuffy	| muzzy	| 34937 |
-| fuffy	| whizz	| 34938 |
-| muzzy	| whizz	| 34939 |
-| fuffy	| huzzy	| 34940 |
-| buzzy	| fuffy	| 34941 |
-| huzzy	| muzzy	| 34942 |
-| buzzy	| muzzy	| 34943 |
-| huzzy	| whizz	| 34944 |
-| buzzy	| whizz	| 34945 |
-| buzzy	| huzzy	| 34946 |
+
+
+## Results for Dataset 3
 
 
 
+### First guess
 
-### Adding penalty to words with repeated letters
+#### Best 10 words
 
-#### First guess
-
-##### Best 10 words
-
-##### Worst 10 words
+#### Worst 10 words
 
 
-#### First two guesses
+### First two guesses
 
-##### Best 10 words
-
-| Word 1 | Word 2 | Rank |
-| :-: | :-: | :-: |
-| adits	| enrol	| 1 |
-| lints	| oread	| 1 |
-| lints	| oared	| 1 |
-| linos	| tared	| 1 |
-| linos	| rated	| 1 |
-| dorts	| elain	| 1 |
-| dorsa	| lenti	| 1 |
-| dorsa	| intel	| 1 |
-| dorsa	| elint	| 1 |
-| soral	| tined	| 1 |
-
-\*491 word pairs were ranked number 1. For this reason, only a few pairs are shown
+#### Best 10 words
 
 
 ##### Worst 10 words
 
-| Word 1 | Word 2 | Rank |
-| :-: | :-: | :-: |
-| phizz	| whizz	| 140600 |
-| chizz	| whizz	| 140601 |
-| bizzy	| buzzy	| 140602 |
-| buffy	| buzzy	| 140604 |
-| fuffy	| muzzy	| 140605 |
-| fuffy	| huzzy	| 140606 |
-| buzzy	| fuffy	| 140607 |
-| huzzy	| muzzy	| 140608 |
-| buzzy	| muzzy	| 140609 |
-| buzzy	| huzzy	| 140610 |
-
-	
-
-### Adding the frequency of letters at each word position
-
-#### First guess
-
-##### Best 10 words
-
-##### Worst 10 words
 
 
-#### First two guesses
 
-##### Best 10 words
-
-##### Worst 10 words
 
 
 
