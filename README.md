@@ -103,13 +103,11 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 | humph	| humus	| 526094 |
 
 
-
+<br>
 
 
 
 ## Results for Dataset 2
-
-
 
 ### First guess
 
@@ -136,7 +134,6 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 
 #### Worst 10 words
 
-
 | Word | Rank | &nbsp; | Word\* | Rank\* | 
 | :-: | :-: | :-: | :-: | :-: |
 | chuff | 10538 | &nbsp; | hypha | 10432 |
@@ -152,22 +149,25 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 
 \* estimated with the frequencies obtained using dataset 1
 
-
+<br>
 
 ### First two guesses
+
+Source: 
 
 #### Best 10 words
 
 
 ##### Worst 10 words
 
-
+<br>
 
 ## Results for Dataset 3
 
 
-
 ### First guess
+
+Source: [notebbok](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_all_words_first_guess.ipynb).
 
 #### Best 10 words
 
@@ -189,8 +189,6 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 - If 1, the word is a possible word of the day.
 
 \* estimated with the frequencies obtained using dataset 1
-
-
 
 
 #### Worst 10 words
@@ -218,12 +216,9 @@ Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_
 <br>
 
 
-
-
-
-
-
 ### First two guesses
+
+Source:
 
 #### Best 10 words
 
