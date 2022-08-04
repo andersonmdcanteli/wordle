@@ -167,7 +167,7 @@ Source:
 
 ### First guess
 
-Source: [notebbok](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_all_words_first_guess.ipynb).
+Source: [notebook](https://github.com/andersonmdcanteli/wordle/blob/main/wordle_all_words_first_guess.ipynb).
 
 #### Best 10 words
 
